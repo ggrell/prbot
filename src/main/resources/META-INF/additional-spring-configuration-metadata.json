@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "github.user",
+      "type": "java.lang.String",
+      "description": "The username for the GitHub user that will be posting changes."
+    },
+    {
+      "name": "github.oauthToken",
+      "type": "java.lang.String",
+      "description": "The OAuth token for the user for accessing the account."
+    },
+    {
+      "name": "github.endpoint",
+      "type": "java.lang.String",
+      "description": "The URL endpoint for the GitHub API."
+    }
+  ]
+}
